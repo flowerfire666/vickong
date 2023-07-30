@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "jyf-parser": "/components/mp-html/mp-html",
+    "page-footer": "/components/pageFooter/index",
+    "home": "/components/home/index"
+  }
+}

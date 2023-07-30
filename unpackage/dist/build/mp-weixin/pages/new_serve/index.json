@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "page-footer": "/components/pageFooter/index",
+    "authorize": "/components/Authorize"
+  }
+}

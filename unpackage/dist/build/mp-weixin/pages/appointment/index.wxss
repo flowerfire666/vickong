@@ -1,0 +1,1 @@
+.form_book{display:block;width:80%;margin:0 auto}.list{display:flex;justify-content:center;align-items:center;margin-top:20rpx}.list .item{font-size:30rpx;margin-right:15rpx}.list input{border:1px solid #000;font-size:25rpx;border-radius:8rpx;padding-left:10rpx}button{display:block;margin:20rpx auto 0;width:150rpx;font-size:30rpx;padding:5px 20px}

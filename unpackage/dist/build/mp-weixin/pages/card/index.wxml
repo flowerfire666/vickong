@@ -1,0 +1,1 @@
+<view><view class="title">卡券生成</view><view><button class="receive" type="primary" data-event-opts="{{[['tap',[['receive',['$event']]]]]}}" bindtap="__e">领取</button></view><view>{{''+msg+''}}</view></view>
